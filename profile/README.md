@@ -8,7 +8,9 @@
 
 > Authors **Bas Meijer** [@bbaassssiiee](https://github.com/bbaassssiiee), **Lorin Hochstein** [@lorin](https://github.com/lorin), and **René Moser** [@resmo](https://github.com/resmo) show you how to write playbooks (Ansible’s configuration management scripts), manage remote servers, and explore the tool’s real power: built-in declarative modules.
 
-- `Code examples are available`   [https://github.com/ansiblebook](https://github.com/ansiblebook)
+- `Code examples are available`   [https://github.com/ansiblebook/ansiblebook](https://github.com/ansiblebook/ansiblebook)
+
+- [Online Glossary](https://github.com/ansiblebook/ansiblebook/wiki) 
 
 - You’ll learn how @Ansible has all the functionality you need—and the simplicity you desire.
 
